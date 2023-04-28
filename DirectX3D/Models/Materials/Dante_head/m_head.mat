@@ -1,0 +1,10 @@
+<Material Name="m_head">
+    <Shader Vertex="" Pixel="Shaders/Light/Light.hlsl"/>
+    <Texture Diffuse="Textures\Model\Dante_head\head_diffuseMap.tga" Specular="Textures/Color/White.png" Normal="Textures\Model\Dante_head\head_normalMap.tga"/>
+    <Property Shininess="25" HasNormalMap="1">
+        <Diffuse R="0.80000001" G="0.80000001" B="0.80000001" A="1"/>
+        <Specular R="0.10294116" G="0.10294116" B="0.10294116" A="1"/>
+        <Ambient R="0.71078432" G="0.71078432" B="0.71078432" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Property>
+</Material>

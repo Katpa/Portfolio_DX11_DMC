@@ -1,0 +1,10 @@
+<Material Name="Tip_Ice">
+    <Shader Vertex="" Pixel="Shaders/Light/Light.hlsl"/>
+    <Texture Diffuse="Textures\Model\Cerberus\Ice_diffuseMap.png" Specular="Textures\Model\Cerberus\icecubemap.png" Normal="Textures\Model\Cerberus\Ice_normalMap.png"/>
+    <Property Shininess="29.768" HasNormalMap="1">
+        <Diffuse R="0.51879084" G="0.78633285" B="0.83333331" A="1"/>
+        <Specular R="1" G="1" B="1" A="1"/>
+        <Ambient R="1" G="1" B="1" A="1"/>
+        <Emissive R="0.18627453" G="0.18627453" B="0.18627453" A="1"/>
+    </Property>
+</Material>

@@ -1,0 +1,10 @@
+<Material Name="M_Stone02">
+    <Shader Vertex="" Pixel="Shaders/Light/Light.hlsl"/>
+    <Texture Diffuse="Textures\Model\Statue\MinoStatue_Albedo.png" Specular="Textures\Model\Statue\MinoStatue_Roughness.png" Normal="Textures\Model\Statue\MinoStatue_Normal.png"/>
+    <Property Shininess="14.227" HasNormalMap="1">
+        <Diffuse R="0.50980389" G="0.50980389" B="0.50980389" A="1"/>
+        <Specular R="1" G="1" B="1" A="1"/>
+        <Ambient R="0.65196079" G="0.65196079" B="0.65196079" A="1"/>
+        <Emissive R="0" G="0" B="0" A="1"/>
+    </Property>
+</Material>

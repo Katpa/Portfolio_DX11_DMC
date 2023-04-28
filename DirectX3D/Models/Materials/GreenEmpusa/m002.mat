@@ -1,0 +1,10 @@
+<Material Name="m002">
+    <Shader Vertex="" Pixel="Shaders/Light/Light.hlsl"/>
+    <Texture Diffuse="Textures/Color/White.png" Specular="Textures/Color/White.png" Normal="Textures/Color/White.png"/>
+    <Property Shininess="50" HasNormalMap="0">
+        <Diffuse R="0.41176468" G="0" B="0" A="1"/>
+        <Specular R="0" G="0" B="0" A="1"/>
+        <Ambient R="0" G="0" B="0" A="1"/>
+        <Emissive R="0.127451" G="0" B="0" A="1"/>
+    </Property>
+</Material>
